@@ -5,9 +5,6 @@ Hi there, I'm Stan, a senior software engineer @ticketsolve.
   - [Goby](https://github.com/goby-lang/goby)
   - [tapping_device](https://github.com/st0012/tapping_device)
   - [power_trace](https://github.com/st0012/power_trace)
-- You can contact me with:
-  - Twitter: [@_st0012](https://twitter.com/_st0012)
-  - Email: stan001212@gmail.com
 
 ### 📝 Latest articles from [dev.to](https://dev.to/st0012)
 
