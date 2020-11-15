@@ -12,10 +12,8 @@
 
 [![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
-Feel free to contact me via [Twitter](https://twitter.com/_st0012) if you're interested in my work or articles 😉
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=st0012&show_icons=true&hide_title=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st0012&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st0012&layout=compact&theme=nord&hide=Assembly,Scilab)
 
 ### 📝 Latest Articles
 
