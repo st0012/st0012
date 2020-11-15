@@ -5,7 +5,6 @@
 [![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby)
 
 [![tapping_device Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=tapping_device&theme=vue)](https://github.com/st0012/tapping_device)
-
 [![power_trace Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=power_trace&theme=vue)](https://github.com/st0012/power_trace)
 
 
@@ -27,3 +26,5 @@ Feel free to contact me via [Twitter](https://twitter.com/_st0012) if you're int
 - [Changing the Approach to Debugging in Ruby with TracePoint](https://dev.to/appsignal/changing-the-approach-to-debugging-in-ruby-with-tracepoint-45k9)
 - [Optimize Your Debugging Process With Object-Oriented Tracing and tapping_device](https://dev.to/st0012/optimize-your-debugging-process-with-object-oriented-tracing-and-tappingdevice-39c6)
 <!-- BLOG-POST-LIST:END -->
+
+#### Feel free to contact me via [Twitter](https://twitter.com/_st0012) if you're interested in my work or articles 😉
