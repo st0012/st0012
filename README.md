@@ -11,7 +11,7 @@
 
 - 🔨 I also maintain [Sentry's Ruby SDK](https://github.com/getsentry/sentry-ruby)
 
-[![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby)](https://github.com/getsentry/sentry-ruby)
+[![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
 Feel free to contact me via [Twitter](https://twitter.com/_st0012) if you're interested in my work or articles 😉
 
