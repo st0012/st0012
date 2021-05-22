@@ -4,7 +4,7 @@
 
 [![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby)
 
-[![tapping_device Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=tapping_device&theme=vue)](https://github.com/st0012/tapping_device)
+[![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
 [![power_trace Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=power_trace&theme=vue)](https://github.com/st0012/power_trace)
 
 
