@@ -18,11 +18,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A Sneak Peek of Ruby's New Debugger!](https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa)
 - [Fixing issues in OSS is easier than you think](https://dev.to/st0012/fixing-issues-in-oss-is-easier-than-you-think-1m2e)
 - [Completely Remove Ruby 2.7's Default Bundler](https://dev.to/st0012/completely-remove-the-default-bundler-from-ci-environment-j0c)
 - [Replace A Rails Initializer](https://dev.to/st0012/how-to-replace-a-rails-initializer-30n0)
 - [Changing the Approach to Debugging in Ruby with TracePoint](https://dev.to/appsignal/changing-the-approach-to-debugging-in-ruby-with-tracepoint-45k9)
-- [Optimize Your Debugging Process With Object-Oriented Tracing and tapping_device](https://dev.to/st0012/optimize-your-debugging-process-with-object-oriented-tracing-and-tappingdevice-39c6)
 <!-- BLOG-POST-LIST:END -->
 
 #### Feel free to contact me via [Twitter](https://twitter.com/_st0012) if you're interested in my work or articles 😉
