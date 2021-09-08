@@ -1,10 +1,8 @@
-### Hi there, I'm Stan, a senior software engineer @ticketsolve.
+### Hi there, I'm Stan, a senior software engineer @ticketsolve. Debugging is kind of my thing 🙂
 
 - I'm the creator of
 
-[![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby)
-
-[![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
+[![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby) [![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
 
 
 - Maintaining
