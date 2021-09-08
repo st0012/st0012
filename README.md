@@ -1,19 +1,24 @@
 ### Hi there, I'm Stan, a senior software engineer @ticketsolve.
 
-- 💻 I'm the creator of
+- I'm the creator of
 
 [![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby)
 
 [![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
-[![power_trace Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=power_trace&theme=vue)](https://github.com/st0012/power_trace)
 
 
-- 🔨 I also maintain [Sentry's Ruby SDK](https://github.com/getsentry/sentry-ruby)
+- Maintaining
 
 [![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
+- Recently focusing on
+
+[![ruby/debug Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy)](https://github.com/ruby/debug)
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=st0012&show_icons=true&hide_title=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st0012&layout=compact&theme=nord&hide=Assembly,Scilab)
+
 
 ### 📝 Latest Articles
 
