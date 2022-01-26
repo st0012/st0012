@@ -1,15 +1,15 @@
 ### Hi there, I'm Stan, a senior software engineer @ticketsolve. Debugging is kind of my thing 🙂
 
-- I'm the creator of
+I'm the creator of:
 
 [![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby) [![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
 
 
-- Maintaining
+And help @getsentry maintain their Ruby SDK:
 
 [![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
-- Recently focusing on
+I also spend a lot of my time working on Ruby's new debugger:
 
 [![ruby/debug Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy)](https://github.com/ruby/debug)
 
