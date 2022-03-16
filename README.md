@@ -1,4 +1,4 @@
-### Hi there, I'm Stan, a senior software engineer @ticketsolve. Debugging is kind of my thing 🙂
+### Hi there, I'm Stan,
 
 I'm the creator of:
 
