@@ -1,11 +1,11 @@
-### Hi there, I'm Stan,
+### Hi there, I'm Stan. I'm a senior developer @Shopify's Ruby & Rails Infrastructure team.
 
-I'm the creator of:
+I built:
 
 [![Goby Card](https://github-readme-stats.vercel.app/api/pin/?username=goby-lang&repo=goby&theme=vue)](https://github.com/goby-lang/goby) [![object_tracer Card](https://github-readme-stats.vercel.app/api/pin/?username=st0012&repo=object_tracer&theme=vue)](https://github.com/st0012/object_tracer)
 
 
-And help @getsentry maintain their Ruby SDK:
+And currently helping @getsentry maintain their Ruby SDK:
 
 [![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
