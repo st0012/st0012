@@ -14,10 +14,6 @@ I also spend a lot of my time working on Ruby's new debugger:
 [![ruby/debug Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy)](https://github.com/ruby/debug)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=st0012&show_icons=true&hide_title=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st0012&layout=compact&theme=nord&hide=Assembly,Scilab)
-
-
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
