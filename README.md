@@ -8,8 +8,9 @@ And currently helping @getsentry maintain their Ruby SDK:
 
 [![sentry-ruby Card](https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy)](https://github.com/getsentry/sentry-ruby)
 
-I also a major contributor of Ruby's new debugger:
+Recently focuses on:
 
 [![ruby/debug Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy)](https://github.com/ruby/debug)
+[![ruby/irb Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=irb&theme=buefy)](https://github.com/ruby/irb)
 
 #### Feel free to contact me via [Twitter](https://twitter.com/_st0012) about anything related to Ruby or debugging 😄
