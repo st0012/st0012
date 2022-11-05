@@ -13,4 +13,4 @@ Recently focuses on:
 [![ruby/debug Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy)](https://github.com/ruby/debug)
 [![ruby/irb Card](https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=irb&theme=buefy)](https://github.com/ruby/irb)
 
-#### Feel free to contact me via [Twitter](https://twitter.com/_st0012) about anything related to Ruby or debugging 😄
+#### Feel free to contact me via [Twitter](https://twitter.com/_st0012) or <a rel="me" href="https://ruby.social/@st0012">Mastodon</a> about anything related to Ruby or debugging 😄
