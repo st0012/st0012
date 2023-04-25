@@ -9,23 +9,23 @@ Feel free to check out some of the projects I've been working on:
 
 <p align="center">
   <a href="https://github.com/shopify/ruby-lsp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shopify&repo=ruby-lsp&theme=buefy&show_owner=true" alt="ruby-lsp Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shopify&repo=ruby-lsp&theme=buefy&show_owner=true" alt="ruby-lsp Card" width="45%" />
   </a>
   <a href="https://github.com/shopify/ruby-lsp-rails">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shopify&repo=ruby-lsp-rails&theme=buefy&show_owner=true" alt="ruby-lsp-rails Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shopify&repo=ruby-lsp-rails&theme=buefy&show_owner=true" alt="ruby-lsp-rails Card" width="45%" />
   </a>
   <br />
   <a href="https://github.com/ruby/debug">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy&show_owner=true" alt="debug Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=debug&theme=buefy&show_owner=true" alt="debug Card" width="45%" />
   </a>
   <a href="https://github.com/ruby/irb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=irb&theme=buefy&show_owner=true" alt="ruby/irb Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=irb&theme=buefy&show_owner=true" alt="ruby/irb Card" width="45%" />
   </a>
   <br />
   <a href="https://github.com/ruby/reline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=reline&theme=buefy&show_owner=true" alt="reline Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruby&repo=reline&theme=buefy&show_owner=true" alt="reline Card" width="45%" />
   </a>
   <a href="https://github.com/getsentry/sentry-ruby">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy&show_owner=true" alt="sentry-ruby Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=getsentry&repo=sentry-ruby&theme=buefy&show_owner=true" alt="sentry-ruby Card" width="45%" />
   </a>
 </p>
